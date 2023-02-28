@@ -52,7 +52,7 @@
 /*-------------LIGHT MODE------------*/
 .theme-light {
   --accent-color: #22c5fd;
-  --background-1: #ffffff;
+  --background-1: #1b5962;
   --background-2: #f5f7fa;
   --background-accent: var(--background-2);
   --border-color: transparent;
